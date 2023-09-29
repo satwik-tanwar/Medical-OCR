@@ -1,4 +1,4 @@
-# text-extraction-from-doctor-prescriptions
+# Medical Optical Character Recognition
 The model developed in this project can extract medicines from pictures of handwritten doctor's prescriptions and output information about that medicine.
 
 I trained the model using IAM (lines) dataset to recognise handwritten texts. The model was successfully reconising images from test set from IAM dataset.
